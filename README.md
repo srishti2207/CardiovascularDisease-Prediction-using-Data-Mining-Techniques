@@ -6,7 +6,6 @@ This project focuses on analyzing and querying data related to cardiovascular di
 
 - Load and process CVD-related datasets.
 - Utilize various query engines for data analysis.
-- Integrate OpenAI's GPT-3.5 model for natural language processing.
 - Provide detailed information about population demographics and specific details about India.
 
 ## Prerequisites
