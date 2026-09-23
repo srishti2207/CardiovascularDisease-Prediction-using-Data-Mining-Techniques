@@ -1,3 +1,4 @@
+Project by- Srishti 
 # Cardiovascular Disease Prediction Project
 
 This project focuses on predicting cardiovascular disease (CVD) using various machine learning classifiers. The dataset contains medical information including age, gender, height, weight, blood pressure, cholesterol, glucose levels, smoking habits, alcohol consumption, physical activity, and cardiovascular disease diagnosis.
